@@ -1,0 +1,13 @@
+This is the hello_world.txt file 
+
+It is located in my "the odin project" github repository
+
+Currently my favorite new shortcut is Ctrl + `
+
+This shortcut toggles between coding window and built-in CLI
+
+Next, I need to add these changes to the "staging area"
+
+**Important - you need to save your file first**
+
+Save easily with "Ctrl + s"
